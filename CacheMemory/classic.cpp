@@ -56,7 +56,7 @@ void execute(int length)
 int main()
 {
 
-    for (int i = 100; i <= 2000; i += 100)
+    for (int i = 1000; i <= 1000; i += 100)
     {
         std::cout << "Length: " << i << "\t";
         execute(i);
